@@ -11,11 +11,12 @@ Group activity to familiarize with git
 6. `git commit -m "<LazyDolphin>"`
 7. `git log`
 8. `git branch <branch name>`
-9. `git checkout <branch name>`
+9. `git checkout <rger>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
 
 # Code Contributors
 - <alias of developer>
 - LazyDophin # 6
+- rger # 9
 
