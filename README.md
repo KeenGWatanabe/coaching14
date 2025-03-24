@@ -10,7 +10,7 @@ Group activity to familiarize with git
 5. `git reset <filename>`
 6. `git commit -m "<block-force-push> tonboswimmer here"`
 7. `git log`
-8. `git branch <branch name>`
+8. `git branch testing lazy`
 9. `git checkout <rger>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
