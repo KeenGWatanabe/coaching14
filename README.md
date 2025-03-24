@@ -8,7 +8,7 @@ Group activity to familiarize with git
 3. `git diff` KeenG
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<LazyDolphin>"`
+6. `git commit -m "<block-force-push>"`
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <rger>`
@@ -19,5 +19,5 @@ Group activity to familiarize with git
 - <alias of developer>
 - KeenG # 3
 - LazyDophin # 6
-- rger # 9
+- rger # 9 #6
 
