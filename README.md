@@ -5,10 +5,10 @@ Group activity to familiarize with git
 # Commands
 1. `git init` 
 2. `git status` 
-3. `git diff` KeenG
-4. `git add <filename>` 
+3. `git diff` tonboswimmers
+4. `git add tonboswimmers` 
 5. `git reset <filename>`
-6. `git commit -m "tonboswimmer here"`
+6. `git commit -m "tonboswimmer here again"`
 7. `git log`
 8. `git branch testing lazy`
 9. `git checkout <rger>`
