@@ -5,8 +5,8 @@ Group activity to familiarize with git
 # Commands
 1. `git init` 
 2. `git status` 
-3. `git diff` tonboswimmers
-4. `git add tonboswimmers` 
+3. `git diff` Show changes between commits, commit and working tree, etc
+4. `git add filename or .` 
 5. `git reset <filename>`
 6. `git commit -m "tonboswimmer here again"`
 7. `git log`
